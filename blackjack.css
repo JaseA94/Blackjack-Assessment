@@ -1,0 +1,33 @@
+body {
+    background-color: #32cd32;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+h2 {
+    color: #f8f8ff;
+}
+
+#dealercards img {
+    height: 150px;
+    width: 100px;
+    margin: 2px;
+}
+
+#yourcards img {
+    height: 150px;
+    width: 100px;
+    margin: 2px;
+}
+
+#hit {
+    height: 50px;
+    width: 75px;
+    font-size: 20px;
+}
+
+#stand {
+    height: 50px;
+    width: 75px;
+    font-size: 20px;
+}
